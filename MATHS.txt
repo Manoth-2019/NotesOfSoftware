@@ -1,0 +1,32 @@
+ARITHEMETICS
+============
+
+
+WHOLE NUMBERS = 0,1,2,3.....ETC
+NATURAL = 1,2,3,4,...ETC
+INTEGRS = ETC...-3,-2,-1,0,1,2,3...ETC
+
+FRACTIONAL = A/B = X.Y = DECIMAL = RATIONAL NUMBERS
+
+
+BODMAS
+------
+
+PRIME, ODD, EVEN , FIBONACCAI SERIES , PALIDROME , ARMSTRONG 
+=============================================================
+
+JAVA
+
+DATA = ENGLISH , NUMERAL, SPECIAL CHARACTER / FUNCTION KEYS
+
+DATATYPE
+
+PDT / NPDT
+
+PDT - {BYTE, SHORT, INT , LONG} integers : {float, double }deciamal | char ''|boolean |8
+NPDT - STRING , CLASSNAME,INTERFACE , ARRAY 
+
+=========================================================================================
+
+
+
